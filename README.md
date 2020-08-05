@@ -11,7 +11,7 @@ This is my GitHub profile, thanks for getting interested :-)
   
 i also have a [website](https://rayan.cf)
         
-        
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=R4yGM)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **R4yGM/R4yGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
