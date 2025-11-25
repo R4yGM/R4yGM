@@ -1,4 +1,4 @@
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r4ygm&show_icons=true&theme=github_dark" >
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=R4yGM" alt="GitHub Streak" /></a>
 </p>
